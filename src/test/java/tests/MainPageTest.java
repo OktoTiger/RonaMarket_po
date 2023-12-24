@@ -32,7 +32,7 @@ public class MainPageTest extends BaseTest{
                 .checkButtonEnterIsViasiable();
     }
     @Test
-    @Tag("negative")
+    @Tag("smoke")
     @Feature("Авторизация пользователя")
     @Story("Не успешная авторизация пользователя на сайте")
     @Owner("Dmitry Nazarov")
@@ -45,7 +45,7 @@ public class MainPageTest extends BaseTest{
     }
 
     @Test
-    @Tag("negative")
+    @Tag("smoke")
     @Feature("Авторизация пользователя")
     @Story("Не успешная авторизация пользователя на сайте")
     @Owner("Dmitry Nazarov")
@@ -59,7 +59,7 @@ public class MainPageTest extends BaseTest{
     }
 
     @Test
-    @Tag("negative")
+    @Tag("smoke")
     @Feature("Авторизация пользователя")
     @Story("Не успешная авторизация пользователя на сайте")
     @Owner("Dmitry Nazarov")
@@ -74,7 +74,7 @@ public class MainPageTest extends BaseTest{
     }
 
     @Test
-    @Tag("negative")
+    @Tag("smoke")
     @Feature("Авторизация пользователя")
     @Story("Не успешная авторизация пользователя на сайте")
     @Owner("Dmitry Nazarov")
