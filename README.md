@@ -50,7 +50,7 @@ ____
 - ✓ *Проверка добавления товара в избранное*
 - ✓ *Прповерка карточки товара'*
 - ✓ *Проверка поисковой выдачи*
-- ✓ *ППроверка добавления товара в корзину*
+- ✓ *Проверка добавления товара в корзину*
 
 
 ____
@@ -58,7 +58,7 @@ ____
 ____
 Для запуска сборки необходимо перейти в раздел <code>Собрать с параметрами</code> и нажать кнопку <code>Собрать</code>.
 <p align="center">
-<img title="Jenkins Build" src="media/screens/jenkins.png">
+<img title="Jenkins Build" src="media/screen/jenkins.png">
 </p>
 После выполнения сборки, в блоке <code>История сборок</code> напротив номера сборки появятся значки <code>Allure Report</code> и <code>Allure TestOps</code>, при клике на которые откроется страница с сформированным html-отчетом и тестовой документацией соответственно.
 
@@ -90,7 +90,7 @@ clean smoke_test
 ```
 ___
 <a id="allure"></a>
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure_Report.svg"> Allure-отчет
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure.svg"> Allure-отчет
 ___
 
 ### *Основная страница отчёта*
@@ -107,14 +107,14 @@ ___
 
 ___
 <a id="allure-testops"></a>
-## <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/logo/AllureTestOps.svg"> Интеграция с Allure TestOps
+## <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/logo/Allure2.svg"> Интеграция с Allure TestOps
 
 На *Dashboard* в <code>Allure TestOps</code> отображается статистика прогона автотестов и  результаты прогона приходят по интеграции при каждом запуске сборки.
 
 ### Результат выполнения автотеста
 
 <p align="center">
-<img title="Test Results in Alure TestOps" src="media/screens/allurResults.png">
+<img title="Test Results in Alure TestOps" src="media/screen/allurResults.png">
 </p>
 ____
 
@@ -141,6 +141,6 @@ ____
 ## <img alt="Selenoid" height="25" src="media/logo/Selenoid.svg" width="25"/></a> Видео выполнения тестов на Selenoid
 ____
 <p align="center">
-<img title="Selenoid Video" src="media/screens/Video.mp4" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="media/screen/Video.mp4" width="550" height="350"  alt="video">   
 </p>
 
