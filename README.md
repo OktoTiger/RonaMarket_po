@@ -1,7 +1,5 @@
 
-# Проект по автоматизации тестирования интернет-магазина Rona Market (https://rona.market/)
-
-
+# Проект по автоматизации тестирования интернет-магазина <a href="https://www.rona.market">Rona Market</a>
 
 ## **Содержание:**
 ____
@@ -141,6 +139,6 @@ ____
 ## <img alt="Selenoid" height="25" src="media/logo/Selenoid.svg" width="25"/></a> Видео выполнения тестов на Selenoid
 ____
 <p align="center">
-<img title="Selenoid Video" src="media/screen/Video.mp4" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="media/screen/Video.gif" width="550" height="350"  alt="video">   
 </p>
 
