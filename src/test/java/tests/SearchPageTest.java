@@ -20,7 +20,7 @@ public class SearchPageTest extends BaseTest{
 
 
     @Test
-    @Tag("positive")
+    @Tag("smoke")
     @Feature("Поиск")
     @Story("Поисковая выдача существующего товара")
     @Owner("Dmitry Nazarov")

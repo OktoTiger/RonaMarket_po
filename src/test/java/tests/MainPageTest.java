@@ -87,7 +87,7 @@ public class MainPageTest extends BaseTest{
     }
 
     @Test
-    @Tag("positive")
+    @Tag("smoke")
     @Feature("Отображение карточки товара")
     @Story("Карточка товара для быстрого просмотра")
     @Owner("Dmitry Nazarov")
