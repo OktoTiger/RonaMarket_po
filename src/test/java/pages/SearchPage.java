@@ -26,17 +26,4 @@ public class SearchPage {
         return this;
     }
 
-    @Step("Нажать кнопку Купить")
-    public SearchPage clickOnBuyButton(String item) {
-        searchedItem.hover();
-        buyButton.click();
-        return this;
-    }
-
-    @Step("Нажать на кнопку Корзина")
-    public BasketPage clickOnBasketButton() {
-        basketButton.click();
-        return new BasketPage();
-    }
-
 }
